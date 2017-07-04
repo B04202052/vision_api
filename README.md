@@ -2,6 +2,17 @@
 
 This is an API that given a picture and it returns objects labels, positions, and confidences.
 
+## Getting started
+
+```
+sh build.sh
+export FLASK_APP=api.py
+flask run
+```
+
+
+## Example
+
 Input:
 
 ![](example/cat.jpg)

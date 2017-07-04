@@ -1,0 +1,1 @@
+curl  https://linkerntu.blob.core.windows.net/visionapi/yolo.weights -o ./bin/yolo.weights
